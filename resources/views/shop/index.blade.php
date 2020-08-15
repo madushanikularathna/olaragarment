@@ -3,7 +3,6 @@
 @section('title')
     Shoping Cart
 @endsection
-
 @section('content')
   
   @if(Session::has('success'))
